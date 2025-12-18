@@ -1,0 +1,13 @@
+{
+    "domain": "printables_stats",
+    "name": "Printables Stats",
+    "codeowners": [],
+    "config_flow": true,
+    "dependencies": [],
+    "documentation": "https://gitlab.com/intheflow/ha-printables-stats",
+    "iot_class": "cloud_polling",
+    "requirements": [
+        "printables-stats>=0.1.2"
+    ],
+    "version": "0.1.0"
+}
